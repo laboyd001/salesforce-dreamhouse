@@ -2,11 +2,17 @@
     "packageDirectories": [
         {
             "path": "force-app",
-            "default": true
+            "default": true,
+            "package": "th-dreamhouse",
+            "versionName": "Version 1.0",
+            "versionNumber": "1.0.0.NEXT"
         }
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "44.0"
-    
+    "sourceApiVersion": "44.0",
+    "packageAliases": {
+        "th-dreamhouse": "0Ho2M0000008OJSSA2",
+        "th-dreamhouse@1.0.0-1": "04t2M000002ijKBQAY"
+    }
 }
